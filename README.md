@@ -1,6 +1,6 @@
 # 3d-ads
 
-This is a test for innovative 3d banner ads. The client has flexible inputs such as the ability to upload the image, choose the color, and size of the 3d ad. 
+This is a test for innovative 3d banner ads. Potential clients will have flexible inputs such as the ability to upload whatever image they like as well as choose the color, and size of the 3d ad. 
 
 Various animations are available such as ones that cause the image to "expload", "fall apart under gravity", and turn into a "pinpression" device.
 
